@@ -7,6 +7,6 @@ In the Kaggle competition we're asked to build a classifier which is able to cor
 
 The images are not equally shaped therefore I've done a deep EDA and preprocessing in the first notebook in order to make them equally shaped and also to balance the classes (they are not balanced).
 
-The algorithm I've used is the Xception algorithm pretrained on the imagenet dataset (<a style=color:blue> transfer learning </a>). The accuracy I've obtained on the test set is 77%. 
+The algorithm I've used is the Xception algorithm pretrained on the imagenet dataset (transfer learning). The accuracy I've obtained on the test set is 77%. 
 
 More comments in the notebooks! You can find the data in the kaggle link I've provided above. 
